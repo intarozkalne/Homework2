@@ -37,7 +37,7 @@ isPrime(33); */
 //3. Write a JavaScript function to convert an amount to small coins.
 //Note: Coins are 1,2,5,10,20,50
 
-function convertToAmount (amount){
+/*function convertToAmount (amount){
     let restOf50 = amount % 50;
     let restOf20 = restOf50 % 20;
     let restOf10 = restOf20 % 10;
@@ -53,7 +53,7 @@ function convertToAmount (amount){
         )
 }
 
-convertToAmount(48);
+convertToAmount(48);*/
 
 //4. Write a JavaScript program to get the integers in range (x, y)
 
